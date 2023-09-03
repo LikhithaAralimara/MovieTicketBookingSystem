@@ -10,3 +10,6 @@ Movie Ticket Booking Management System - a complete application where a user can
 -->	A manager can view the current movie schedule for the theatre. He can add new movies to be scheduled or remove existing movies from the schedule.
 
 -->	Both the manager and user views are in sync when a movie gets updated.
+
+
+Refer the report for more information
